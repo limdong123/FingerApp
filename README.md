@@ -1,6 +1,4 @@
-# # 캡스톤 카메라로 지문을 촬영해 회원가입과 본인인증을 하는 애플리케이션 개발
-
-## <u>Teamate</u> Project Background
+# # 캡스톤 과제 카메라로 지문을 촬영해 회원가입과 본인인증을 하는 애플리케이션 개발
 
 - ### 필요성
 <img width="1045" alt="스크린샷 2022-12-04 오전 5 35 56" src="https://user-images.githubusercontent.com/96884089/205461129-65bfc330-29e4-48f9-ab94-66855f74da8e.png">
@@ -34,21 +32,6 @@
      - 지문비교를 위하여 기존 알고리즘 방식에서 인공지능 방식을 처리 속도 단축을 위하여 사용한다.
      - 지문의 비교는 Siamese Neural Network 구조로 두개의 인풋값을 받아 유사도를 판별한다. 해당 구조의 장점은 비교적 적은양의 데이터로도 학습이 가능하다. 또한 같은 weigth를 공유하는 두개의 층을 사용해 유사도 판별에 적합하다.
     
-- 인공지능을 
-이용한 
-지문비교 이미지
-<img width="400" alt="스크린샷 2022-12-04 오전 5 41 20" src="https://user-images.githubusercontent.com/96884089/205461297-90463fcc-377a-43a3-bdb8-049b7dd05712.png">
-
-
-## Case Study
-
-  - Minsung Son, Heeyoul Kim. “A Real Estate Lease Transaction System Using Blockchain and Open Banking API” *Journal of KIIT.,* Vol. 18, No. 5, pp 109-119, May 31, 2020.
-  - S.B. Pan, J.H. Moon, Y.W. Chung, H.I. Kim. “Technology Trends of the Fingerprint Recognition” *Electronics and Telecommunications Trends(ETRI),* Vol. 16, No. 5, 2020.
-  - J.S Bong. “A Personal Health Information Sharing Platform based on Hyperledger Fabric Blockchain” *Doctoral dissertation. Soongsil-Univ. 2019.*
-  - Hanjun Kim, Eunmi Choi. “A Survey on Hyperledger Fabric Technologies” *Autumn Annual Conference,* 2019.  
-  - GitHub Baseline Model(CNN) : https://github.com/kairess/fingerprint_recognition.
-
-
 ## Conclusion
 - ### 결과화면
 <img width="492" alt="스크린샷 2022-12-04 오전 5 39 14" src="https://user-images.githubusercontent.com/96884089/205461235-39df0e7a-118b-4845-921d-6d04ce66e7ff.png">
@@ -65,3 +48,4 @@
 
 - ### 2022년 한국통신학회 추계논문 발표회 
 <img width="778" alt="스크린샷 2022-12-04 오전 5 23 12" src="https://user-images.githubusercontent.com/96884089/205460712-79b08685-254d-4751-b0db-a92f9ccf7740.png">
+
