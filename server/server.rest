@@ -1,0 +1,15 @@
+#testing POST
+
+POST http://localhost:8080/welcome
+Content-Type: application/json
+
+{
+    "name": "mobile"
+}
+
+POST http://localhost:8080/fingerPrint
+Content-Type: application/json
+
+{
+    "fingerPrint": "asdf"
+}
